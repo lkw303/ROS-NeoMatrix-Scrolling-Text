@@ -3,7 +3,7 @@
 This project involves the integration of ROS and Arduino so as to recieve a message from ROS and display animation/text on the matrix display attached to the MOMO robot.
 The display will flash green arrow keys when the robot is moving and red colour when it is stopping. It also allows for a scrolling text message to be displayed on it, of which the text will be sent from a wepage using ROS Server.
 
-##The Big Picture
+## The Big Picture
 
 
 <img src= "images/ros_diagram.jpg" width = "1000">
