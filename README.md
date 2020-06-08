@@ -6,8 +6,8 @@ The display will flash green arrow keys when the robot is moving and red colour 
 ##The Big Picture
 
 
-<img src= "images/ros_diagram.jpg" width = "100">
-<br>Figure 1.1</img>
+<img src= "images/ros_diagram.jpg" width = "1000">
+<br>Figure 1.1 The Big Picture</img>
 
 ## Hardware
 
