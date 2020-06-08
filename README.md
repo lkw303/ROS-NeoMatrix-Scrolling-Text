@@ -24,7 +24,7 @@ The hardware involved is 2 set of Arduino Unos and a total of 12 8x8 Neopixel ma
 <br/>
 
 <img src = "images/schematics.jpg" width = "500">
-<br>Figure 1.2 Fritzing Schematics layout</img>
+<br>Figure 1.3 Fritzing Schematics layout</img>
 
 
 ##Software
